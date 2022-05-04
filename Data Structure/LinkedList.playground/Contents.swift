@@ -11,11 +11,10 @@ import Cocoa
  --------------------------
  time and memory complexity
  --------------------------
- 1. preapend O(1)
- 2. append O(1)
- 3. lookup O(n)
- 4. Insert O(n)
- 5. delete O(n)
+ 1  Access(n)
+ 2. Search O(n)
+ 3. Insertion O(1)
+ 4. Deletion O(1)
  
  --------------------------
  */
